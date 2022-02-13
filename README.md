@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙎‍♂️ I'm Govind , 24yo boy that likes to play with Frida & R2
+🙎‍♂️ I'm Govind , 24yo boy who likes to play with Frida & R2
 
 📚 I’m currently learning JavaScript
 
