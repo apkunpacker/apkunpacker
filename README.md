@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🙎‍♂️ I'm Govind , 24yo boy who likes to play with Frida & R2
+🙎‍♂️ I'm Govind Sharma , 25 year boy (from Bhilwara, Rajasthan, India) who likes to play with Frida & R2.
 
-📚 I’m currently learning JavaScript
+📚 I’m currently learning JavaScript/Python.
 
-🤖 I make Frida Scripts in free time
+🤖 I Play with various RASP in free time.
 
-🎮 I make scripts to breaks packers/protectors
+🎮 I like to breaks packers/protectors.
 
-⚡ Fun fact: I like dogs
+⚡ Fun fact: I like dogs 🐕
