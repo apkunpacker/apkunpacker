@@ -18,7 +18,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 📧 Email: apkunpacker@gmail.com
 
-🌐 LinkedIn: https://www.linkedin.com/in/govind-apkunpacker
+🌐 LinkedIn: https://www.linkedin.com/in/apkunpacker
 
 🐦 Twitter: https://twitter.com/ApkUnpacker
 
