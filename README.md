@@ -1,20 +1,22 @@
-# Hi there! 👋 I'm Govind Sharma, a Software Enthusiast from Bhilwara, Rajasthan, India, with a passion for Android security.
+# Hi there! 👋 I'm Govind Sharma, a Software Enthusiast from Bhilwara, Rajasthan, India, with a passion for Android/iOS security.
 
 ## About Me
 
-📚 Currently honing my skills in JavaScript and Python.
+📚 Currently honing my skills in C,Java,JavaScript,Python.
 
 🔒 Experienced in Runtime Application Self-Protection (RASP) for enhanced software security.
 
-🤖 Android enthusiast: Love reversing apps, breaking packers, and finding vulnerabilities.
+🤖 Android/iOS enthusiast: Love reversing apps, breaking packers, and finding vulnerabilities.
+
+🔍 Frida and radare2 aficionado: Leveraging these tools for dynamic analysis and reverse engineering.
 
 ⚡ Fun fact: I'm a dog lover! 🐶
 
 ## What I'm Up To
 
-- Focusing on Android security: Reversing apps, breaking packers, and finding vulnerabilities.
+- Focusing on Android/iOS security: Reversing apps, breaking packers, and finding vulnerabilities.
 - Exploring Runtime Application Self-Protection techniques.
-- Breaking packers and protectors for software security.
+- Utilizing Frida and radare2 for dynamic analysis and reverse engineering.
 
 ## Contact Me
 
@@ -24,11 +26,16 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 🌐 [LinkedIn](https://www.linkedin.com/in/apkunpacker) | 🐦 [Twitter](https://twitter.com/ApkUnpacker) | 📞 [Telegram](https://t.me/apkunpacker)
 
-## Android Security Explorer
+## Android/iOS Security Explorer
 
 - **Reversing:** Passionate about reversing Android apps for security analysis.
 - **Breaking Packers:** Skilled in breaking packers and protectors to uncover hidden functionalities.
 - **Vulnerability Hunter:** Actively searching for vulnerabilities in Android applications.
+
+## Tools I Love and Use Daily
+
+- **Frida:** Dynamic instrumentation toolkit for developers, reverse engineers, and security researchers.
+- **radare2:** Unix-like reverse engineering framework and command-line tool.
 
 ## GitHub Stats
 
@@ -36,8 +43,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ## Skills
 
-- **Languages:** JavaScript, Python
-- **Security:** Runtime Application Self-Protection (RASP), Android Security
+- **Languages:** C, Java, JavaScript, Python
+- **Security:** Runtime Application Self-Protection (RASP), Android Security, Frida, radare2
 - **Interests:** Software Security, Packer and Protector Analysis, Android Reversing
 
 ## Fun Fact
