@@ -40,7 +40,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apkunpacker&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apkunpacke&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apkunpacker&theme=dark)
 
 ## Skills
 
