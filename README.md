@@ -29,8 +29,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ## Tools I Love and Use Daily
 
-- **Frida:**
-- **radare2:**
+- **Frida**
+- **radare2**
 
 ## GitHub Stats
 
