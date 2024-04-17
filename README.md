@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Govind Sharma, a Software Enthusiast from Bhilwara, Rajasthan, India, with a passion for Android/iOS security.
+# Hi there! 👋 I'm Govind Sharma, a Software Enthusiast from India, with a passion for Android/iOS security.
 
 ## About Me
 
@@ -12,11 +12,6 @@
 
 ⚡ Fun fact: I'm a dog lover! 🐶
 
-## What I'm Up To
-
-- Focusing on Android/iOS security: Reversing apps, breaking packers, and finding vulnerabilities.
-- Exploring Runtime Application Self-Protection techniques.
-- Utilizing Frida and radare2 for dynamic analysis and reverse engineering.
 
 ## Contact Me
 
@@ -34,8 +29,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ## Tools I Love and Use Daily
 
-- **Frida:** Dynamic instrumentation toolkit for developers, reverse engineers, and security researchers.
-- **radare2:** Unix-like reverse engineering framework and command-line tool.
+- **Frida:**
+- **radare2:**
 
 ## GitHub Stats
 
@@ -48,9 +43,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - **Security:** Runtime Application Self-Protection (RASP), Android Security, Frida, radare2
 - **Interests:** Software Security, Packer and Protector Analysis, Android Reversing
 
-## Fun Fact
-
-I adore dogs! If you have dog pictures or stories, feel free to share them with me. 🐾
 
 ## Visitor Count
 
