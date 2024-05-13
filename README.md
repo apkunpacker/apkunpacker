@@ -1,49 +1,37 @@
-# Hi there! 👋 I'm Govind Sharma, a Software Enthusiast from India, with a passion for Android/iOS security.
+# Hi there! 👋 I'm Govind Sharma
 
 ## About Me
 
-📚 Currently honing my skills in C,Java,JavaScript,Python.
-
-🔒 Experienced in Runtime Application Self-Protection (RASP) for enhanced software security.
-
-🤖 Android/iOS enthusiast: Love reversing apps, breaking packers, and finding vulnerabilities.
-
-🔍 Frida and radare2 aficionado: Leveraging these tools for dynamic analysis and reverse engineering.
-
-⚡ Fun fact: I'm a dog lover! 🐶
-
+- Currently refining my skills in C, Java, JavaScript, Python.
+- Experienced in Runtime Application Self-Protection (RASP) for enhanced software security.
+- Android/iOS security enthusiast: Proficient in reversing apps, breaking packers, and vulnerability analysis.
+- Specialized in leveraging Frida and Radare2 for dynamic analysis and reverse engineering.
+- Fun fact: I'm a dog lover! 🐶
 
 ## Contact Me
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out:
+Feel free to reach out:
 
-📧 Email: [apkunpacker@gmail.com](mailto:apkunpacker@gmail.com)
-
-🌐 [LinkedIn](https://www.linkedin.com/in/apkunpacker) | 🐦 [Twitter](https://twitter.com/ApkUnpacker) | 📞 [Telegram](https://t.me/apkunpacker)
+- 📧 Email: [apkunpacker@gmail.com](mailto:apkunpacker@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/apkunpacker) | 🐦 [Twitter](https://twitter.com/ApkUnpacker) | 📞 [Telegram](https://t.me/apkunpacker)
 
 ## Android/iOS Security Explorer
 
-- **Reversing:** Passionate about reversing Android apps for security analysis.
-- **Breaking Packers:** Skilled in breaking packers and protectors to uncover hidden functionalities.
+- **Reversing:** Passionate about security analysis through reversing Android apps.
+- **Breaking Packers:** Skilled in uncovering hidden functionalities by breaking packers and protectors.
 - **Vulnerability Hunter:** Actively searching for vulnerabilities in Android applications.
 
-## Tools I Love and Use Daily
+## Tools I Use
 
 - **Frida**
-- **radare2**
+- **Radare2**
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apkunpacker&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apkunpacker&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apkunpacker&show_icons=true&count_private=true&theme=dark)
 
 ## Skills
 
 - **Languages:** C, Java, JavaScript, Python
-- **Security:** Runtime Application Self-Protection (RASP), Android Security, Frida, radare2
+- **Security:** Runtime Application Self-Protection (RASP), Android Security, Frida, Radare2
 - **Interests:** Software Security, Packer and Protector Analysis, Android Reversing
-
-
-## Visitor Count
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=apkunpacker.apkunpacker)
