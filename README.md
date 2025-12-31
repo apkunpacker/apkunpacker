@@ -10,7 +10,7 @@ Focused on Android/iOS security, RASP, and vulnerability research. Specialized i
 
 ---
 
-**Dream:** To provide a home for my parents and secure a MacBook to fully realize my potential—that's why I'm working. :)
+**Dream:** To provide a good home for my family and secure a MacBook Pro to fully realize my potential—that's why I'm working. :)
 
 **Passion:** To reverse engineer everything I encounter.
 
