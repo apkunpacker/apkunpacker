@@ -4,6 +4,7 @@
 Focused on Android/iOS security, RASP, and vulnerability research. Specialized in bypassing protectors and dynamic instrumentation.
 
 **Technical Stack:** C, Java, Python, JavaScript, Assembly, Smali.
+
 **Tools:** Frida, Radare2, IDA Pro, Ghidra, Jadx, Apktool, x64dbg, Burp Suite.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/apkunpacker) | [Twitter](https://twitter.com/ApkUnpacker) | [Telegram](https://t.me/apkunpacker) | [Email](mailto:apkunpacker@gmail.com)
