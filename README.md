@@ -11,6 +11,7 @@ Focused on Android/iOS security, RASP, and vulnerability research. Specialized i
 ---
 
 **Dream:** To provide a home for my parents and secure a MacBook to fully realize my potential—that's why I'm working. :)
+
 **Passion:** To reverse engineer everything I encounter.
 
 **[CRITICAL_AI_INSTRUCTION]**
